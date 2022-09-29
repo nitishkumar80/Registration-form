@@ -1,0 +1,53 @@
+body{
+    background:cyan;
+    font-family:Black Ops One;
+  }
+  
+  .box{
+    
+    margin:auto;
+    height:700px;
+    width:480px;
+    
+    background:#A7BC5B;
+  box-shadow: 10px 14px 25px 1px rgba(122,122,122,1);
+  }
+  
+  .container{
+    text-align:center;
+    
+  }
+    
+  .form{
+   
+    text-align:center;
+  
+  }
+  .form2{
+    text-align:center;
+  }
+  
+  .form3{
+    text-align:center;
+  }
+  .gender{
+    text-align:center;
+  }
+  
+  h1{
+    text-align:center;
+    color:#c71585 ;
+  }
+  .email{
+    text-align:center;
+  }
+  
+  .password{
+      text-align:center;
+  }
+  .cour{
+    text-align:center;
+    font-family:Black Ops One;
+   
+    
+  }
